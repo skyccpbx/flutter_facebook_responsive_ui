@@ -53,7 +53,7 @@ class _HomeScreenMobile extends StatelessWidget {
           brightness: Brightness.light,
           backgroundColor: Colors.white,
           title: Text(
-            'facebook',
+            'Facebook',
             style: const TextStyle(
               color: Palette.facebookBlue,
               fontSize: 28.0,
